@@ -1,5 +1,6 @@
 # Deep Reinforcement Learning Assignment — Group 7
-
+A Framework for fair evaluation of variance-aware bandit algorithms.
+ 
 This project reproduces experiments comparing classical and variance-aware multi-armed bandit algorithms on Bernoulli reward distributions. It follows the evaluation protocol described in Elise Wolf's 2025 paper, *A Framework for Fair Evaluation of Variance-Aware Bandit Algorithms* ([arXiv:2510.27001](https://arxiv.org/abs/2510.27001)).
 
 ## What the simulation does
